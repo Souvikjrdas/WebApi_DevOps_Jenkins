@@ -12,7 +12,7 @@ namespace PracticeWebAPIs.Controllers
     {
         // GET: api/<HomeController>
         [HttpGet]
-        [Route("getAll")]
+        //[Route("getAll")]
         public ActionResult<string> Get()
         {
             return Ok("hello world");
@@ -26,23 +26,23 @@ namespace PracticeWebAPIs.Controllers
         }
 
         // POST api/<HomeController>
-        [HttpPost("[action]/{id:int}/{name}")]
-        public IActionResult Add([FromRoute] Items item , [FromRoute] Items item1)
-        {
-            LinkedList<string> list = new LinkedList<string>();
-            return Ok(); 
-        }
+        //[HttpPost("[action]/{id:int}/{name}")]
+        //public IActionResult Add([FromRoute] Items item , [FromRoute] Items item1)
+        //{
+        //    LinkedList<string> list = new LinkedList<string>();
+        //    return Ok(); 
+        //}
 
-        // PUT api/<HomeController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
+        //// PUT api/<HomeController>/5
+        //[HttpPut("{id}")]
+        //public void Put(int id, [FromBody] string value)
+        //{
+        //}
 
-        // DELETE api/<HomeController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
+        //// DELETE api/<HomeController>/5
+        //[HttpDelete("{id}")]
+        //public void Delete(int id)
+        //{
+        //}
     }
 }
