@@ -15,7 +15,7 @@ namespace PracticeWebAPIs.Controllers
         [Route("getAll")]
         public ActionResult<string> Get()
         {
-            return Ok(System.Diagnostics.Process.GetCurrentProcess().ProcessName);
+            return Ok("hello world");
         }
 
         // GET api/<HomeController>/5

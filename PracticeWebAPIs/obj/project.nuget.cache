@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "78JqJGXpiOVCffxNlz4FtOZS1J+u1V7Jo9QP1gtD+PDIwfr51T5KZPliOOzKhr/iRa7EDmmemuaCz+g6lxzqWw==",
+  "dgSpecHash": "HjPobmk+KsjUPEPunm+r4jyt3JavzfSC9w9aTCyjOiA292cAd5sBeWCN0XPWoq6Hf0GzxuVvy6UBNUYFsrEvzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\souvikdas02\\source\\repos\\PracticeWebAPIs\\PracticeWebAPIs\\PracticeWebAPIs.csproj",
+  "projectFilePath": "C:\\Users\\souvikdas02\\OneDrive - Nagarro\\Documents\\WebApi_DevOps\\WebApi_DevOps_Jenkins\\PracticeWebAPIs\\PracticeWebAPIs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\souvikdas02\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\souvikdas02\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\souvikdas02\\source\\repos\\PracticeWebAPIs\\PracticeWebAPIs\\PracticeWebAPIs.csproj": {}
+    "C:\\Users\\souvikdas02\\OneDrive - Nagarro\\Documents\\WebApi_DevOps\\WebApi_DevOps_Jenkins\\PracticeWebAPIs\\PracticeWebAPIs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\souvikdas02\\source\\repos\\PracticeWebAPIs\\PracticeWebAPIs\\PracticeWebAPIs.csproj": {
+    "C:\\Users\\souvikdas02\\OneDrive - Nagarro\\Documents\\WebApi_DevOps\\WebApi_DevOps_Jenkins\\PracticeWebAPIs\\PracticeWebAPIs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\souvikdas02\\source\\repos\\PracticeWebAPIs\\PracticeWebAPIs\\PracticeWebAPIs.csproj",
+        "projectUniqueName": "C:\\Users\\souvikdas02\\OneDrive - Nagarro\\Documents\\WebApi_DevOps\\WebApi_DevOps_Jenkins\\PracticeWebAPIs\\PracticeWebAPIs.csproj",
         "projectName": "PracticeWebAPIs",
-        "projectPath": "C:\\Users\\souvikdas02\\source\\repos\\PracticeWebAPIs\\PracticeWebAPIs\\PracticeWebAPIs.csproj",
+        "projectPath": "C:\\Users\\souvikdas02\\OneDrive - Nagarro\\Documents\\WebApi_DevOps\\WebApi_DevOps_Jenkins\\PracticeWebAPIs\\PracticeWebAPIs.csproj",
         "packagesPath": "C:\\Users\\souvikdas02\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\souvikdas02\\source\\repos\\PracticeWebAPIs\\PracticeWebAPIs\\obj\\",
+        "outputPath": "C:\\Users\\souvikdas02\\OneDrive - Nagarro\\Documents\\WebApi_DevOps\\WebApi_DevOps_Jenkins\\PracticeWebAPIs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\souvikdas02\\AppData\\Roaming\\NuGet\\NuGet.Config",
