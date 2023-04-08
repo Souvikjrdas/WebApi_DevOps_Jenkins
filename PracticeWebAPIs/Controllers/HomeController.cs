@@ -19,10 +19,10 @@ namespace PracticeWebAPIs.Controllers
         }
 
         // GET api/<HomeController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
+        [HttpGet("{name}")]
+        public string Get(string name)
         {
-            return $"Id value is {id}";
+            return $"hell world from {name}";
         }
 
         // POST api/<HomeController>
