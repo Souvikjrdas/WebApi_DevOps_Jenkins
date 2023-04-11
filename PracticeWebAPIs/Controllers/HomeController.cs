@@ -33,12 +33,6 @@ namespace PracticeWebAPIs.Controllers
         //    return Ok(); 
         //}
 
-        //// PUT api/<HomeController>/5
-        //[HttpPut("{id}")]
-        //public void Put(int id, [FromBody] string value)
-        //{
-        //}
-
         //// DELETE api/<HomeController>/5
         //[HttpDelete("{id}")]
         //public void Delete(int id)
